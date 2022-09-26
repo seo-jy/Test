@@ -14,4 +14,4 @@ firebase 안드로이드스튜디오 연결 test
 6. [안드로이드스튜디오]tool -> firebase -> save and retrieve data 연결 
 7. [firebase]데이터베이스 만들기 -> 규칙 -> true로 변경
 8. [안드로이드스튜디오]MainActivity코드 확인
-
+[~220923]
